@@ -1,0 +1,22 @@
+.content{
+    padding:16px;
+}
+.pfont{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -ms-text-kashida-space: 0%;
+    }
+ .carousel_div{
+        margin-left: 10%;
+        margin-right:10%;    
+        border:1px solid red;
+        border-radius:10px;
+        padding:10px;
+        background-color: lightcoral;
+    }
+    
+.carousel_head{
+        margin:10px;
+        text-align: center;
+        font-size: 3em;
+    }
